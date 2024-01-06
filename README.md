@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinwoo45
-- 👀 I’m interested in NodeJs,React,ReactNative
-- 🌱 I’m currently learning ReactNative
+- 👀 I’m interested in node-js, react, react-native
+- 🌱 I’m currently learning react-native
 - 📫 How to reach me jinwoo3158@gmail.com
 
 
